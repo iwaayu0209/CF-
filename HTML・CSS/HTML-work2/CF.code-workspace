@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Desktop/CF"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CF"
+	}
+}

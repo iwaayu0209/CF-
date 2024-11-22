@@ -1,6 +1,10 @@
-body[
-    class="header"
-    width: 400px
-    height: 80px
-    
-]
+.red{
+    height: 80px;
+    width: 400px;
+    background-color:red;
+}
+.yellow{
+    height: 70px;
+    width: 360px;
+    background-color: yellow;
+}

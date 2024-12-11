@@ -28,10 +28,21 @@
 
 
         //下記のコードを書き直して（１、２、３、４、５）を全て掛け合わせる関数に変更してね！
-        function multiplyNumbers(a, b) {
-            return a + b;
+        function sayHello(neme) {
+            console.log(neme+'さん、おはようございます。');
+        }
+        sayHello('岡山');
+
+        function addNumbers(a,b){
+            console.log(a+b);
+        }
+        addNumbers(1,2);
+
+        function multiplyNumbers(...numbers) {
+            return numbers.reduce((acc,num)=> acc*num,1);
         }
         console.log(multiplyNumbers(1, 2, 3, 4, 5));
+
 
     </script>
 </body>

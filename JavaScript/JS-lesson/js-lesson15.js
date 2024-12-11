@@ -2,25 +2,25 @@
 //下記のように３回「たまごやきを」作りたい時は今までだと、下記の様に書く必要があった。
 
 //１回目
-console.log('①卵を割る');
-console.log('②卵をとく');
-console.log('③フライパンに流し込み焼いていく');
-console.log('④味付け');
-console.log('⑤形を整える');
+//console.log('①卵を割る');
+//console.log('②卵をとく');
+//console.log('③フライパンに流し込み焼いていく');
+//console.log('④味付け');
+//console.log('⑤形を整える');
 
 //２回目
-console.log('①卵を割る');
-console.log('②卵をとく');
-console.log('③フライパンに流し込み焼いていく');
-console.log('④味付け');
-console.log('⑤形を整える');
+//console.log('①卵を割る');
+//console.log('②卵をとく');
+//console.log('③フライパンに流し込み焼いていく');
+//console.log('④味付け');
+//console.log('⑤形を整える');
 
 //３回目
-console.log('①卵を割る');
-console.log('②卵をとく');
-console.log('③フライパンに流し込み焼いていく');
-console.log('④味付け');
-console.log('⑤形を整える');
+//console.log('①卵を割る');
+//console.log('②卵をとく');
+//console.log('③フライパンに流し込み焼いていく');
+//console.log('④味付け');
+//console.log('⑤形を整える');
 
 
 
